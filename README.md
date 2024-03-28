@@ -104,4 +104,8 @@
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
-Een Junior Ethical Hacker met een achtergrond in Software Development. In mijn huidige rol focus ik op het identificeren en verhelpen van beveiligingsrisico's, waarmee ik organisaties help hun digitale infrastructuur veiliger te maken.
+My name is Martijn, a software developer and recently started as a Junior Ethical Hacker. With a solid background in .NET technologies, I've developed a strong passion for creating reliable and user-friendly software solutions that simplify everyday life.
+
+Throughout my career, I've tackled a wide range of projects, from developing small applications to contributing to large, complex systems. My current focus is on developing a comprehensive planning, administration and technical design portal using PHP Laravel. This portal is designed to assist organizations in streamlining and automate their scheduling, billing, and product calculation processes, aiming to provide a smooth and intuitive experience for all users.
+
+In addition to my work as a software developer, I've recently stepped into the exciting world of cybersecurity as a Junior Ethical Hacker. This new role allows me to further expand my technical skills and contribute to ensuring the digital security of systems and networks.
