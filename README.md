@@ -70,7 +70,7 @@
 </p>
 
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-<p>Corperate Commits are not count</p>
+<p align="center">Corperate Commits are not included</p>
 <br/>
 <p align="left">
   <a href="https:/www.linkedin.com/in/martijn-weber/">
@@ -84,7 +84,13 @@
 
 <p align="center">
   <a href="http://www.linkedin.com/in/martijn-weber/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinusweber&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinusweber?langs_count=10&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
+</p>
+
+<p align="center">
+  <a href="http://www.linkedin.com/in/martijn-weber/">
+   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?tinusweber=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </p>
 
