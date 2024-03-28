@@ -92,7 +92,7 @@
 
 <p align="center">
   <a href="http://www.linkedin.com/in/martijn-weber/">
-   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?tinusweber=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime/?username=tinusweber&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true">
   </a>
 </p>
 
