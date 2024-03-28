@@ -64,7 +64,7 @@
 <p>
 <div align="center">
 	<a href="www.linkedin.com/in/martijn-weber/" rel="nofollow">
-  		<img alt="Martijn Weber's LinkedIn" width="1500px" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn">
+  		<img alt="Martijn Weber's LinkedIn" width="1000px" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn">
 	</a>
 </div>
 </p>
