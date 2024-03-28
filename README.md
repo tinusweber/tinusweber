@@ -75,7 +75,7 @@
 <p align="left">
   <a href="https:/www.linkedin.com/in/martijn-weber/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=torrinworx&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torrinworx&theme=radical&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=tinusweber&theme=radical&hide_border=true">		  
   </a>
 </p>
 <br>
