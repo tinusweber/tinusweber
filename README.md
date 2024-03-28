@@ -57,21 +57,14 @@
 <div align="center">
   	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   	<img src="https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white">
-	<img src="https://img.shields.io/badgeGitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white">
 </div>
 </p>
 
 <p align="center">Contact me:</p>
 <p>
 <div align="center">
-	<a href="https://discord.com/users/605010128521003008" rel="nofollow">
-	 	<img alt="Torrin Leonard's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
-	</a>
-	<a href="https://twitter.com/LeonardTorrin" rel="nofollow">
-  		<img alt="Torrin Leonard's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
-	</a>
-	<a href="https://www.linkedin.com/in/torrin-leonard-8343a1154/" rel="nofollow">
-  		<img alt="Torrin Leonard's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+	<a href="www.linkedin.com/in/martijn-weber/" rel="nofollow">
+  		<img alt="Martijn Weber's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 	</a>
 </div>
 </p>
