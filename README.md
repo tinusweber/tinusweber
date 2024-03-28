@@ -88,14 +88,6 @@
   </a>
 </p>
 
-<!--  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<p align="center">
-  <a href="http://www.linkedin.com/in/martijn-weber/">
-   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime/?username=tinusweber&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true">
-  </a>
-</p>
-
 <p align="center">Visitation Count</p>
 <p align="center"><img src="https://profile-counter.glitch.me/{tinusweber}/count.svg"></p>
 
