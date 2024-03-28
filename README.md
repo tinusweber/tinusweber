@@ -73,7 +73,7 @@
 <p align="center">Corperate Commits are not included</p>
 <br/>
 <p align="left">
-  <a href="https:/www.linkedin.com/in/martijn-weber/">
+  <a>
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tinusweber&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=tinusweber&theme=radical&hide_border=true">		  
   </a>
@@ -83,7 +83,7 @@
 <!-- [![Martijn's Activity Graph](https://activity-graph.herokuapp.com/graph?username=tinusweber&custom_title=Martijn's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.linkedin.com/in/martijn-weber/) -->
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/martijn-weber/">
+  <a>
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinusweber&theme=radical&langs_count=8&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
