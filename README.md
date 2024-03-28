@@ -38,8 +38,16 @@
 
 <p>
 <div align="center">
+  	<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white">
+  	<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white">
+	<img src="https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white">
+</div>
+</p>
+
+<p>
+<div align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Brup-Suite&logoColor=white">
 </div>
 </p>
 
