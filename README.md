@@ -36,6 +36,15 @@
 </div>
 </p>
 
+<div align="center">
+  	<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
+	<img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white">
+	<img src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white">
+	<img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white">
+	<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white">
+</div>
+</p>
+
 <p>
 <div align="center">
   	<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white">
