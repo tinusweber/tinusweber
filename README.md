@@ -80,7 +80,7 @@
 </p>
 <br>
 
-<!-- [![Martijn's Activity Graph](https://activity-graph.herokuapp.com/graph?username=torrinworx&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
+<!-- [![Martijn's Activity Graph](https://activity-graph.herokuapp.com/graph?username=tinusweber&custom_title=Martijn's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.linkedin.com/in/martijn-weber/) -->
 
 <p align="center">
   <a href="http://www.linkedin.com/in/martijn-weber/">
@@ -92,8 +92,8 @@
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
-	<li><i><a href="https://github.com/torrinworx/Cozy-Auto-Texture">Cozy Auto Texture</a></i>:<ul><li>A Blender add-on that integrates the Stable Diffusion AI image generation model directly within Blender to make AI generated tiled textures available to everyone. (Under construction)</li></ul></li>
-	<li><i><a href="https://github.com/torrinworx/Blend_My_NFTs">Blend_My_NFTs</a></i>:<ul><li>A Blender add-on that makes creating a 3D NFT collection easy! Generate thousands of 3D models, animations, or images with this simple add-on. (Released)</li></ul></li>
+	<li><i><a href="https://github.com/tinusweber/Cozy-Auto-Texture">Cozy Auto Texture</a></i>:<ul><li>A Blender add-on that integrates the Stable Diffusion AI image generation model directly within Blender to make AI generated tiled textures available to everyone. (Under construction)</li></ul></li>
+	<li><i><a href="https://github.com/tinusweber/Blend_My_NFTs">Blend_My_NFTs</a></i>:<ul><li>A Blender add-on that makes creating a 3D NFT collection easy! Generate thousands of 3D models, animations, or images with this simple add-on. (Released)</li></ul></li>
 	<li><i><a href="https://www.thiscozystudio.com/">ThisCozyStudio.com (SAS)</a></i>:<ul><li>A website that enables easy cloud rendering and NFT minting and storage from the web or withing Blender using our Cozy API. (Yet to be released)</li></ul></li>
 	<li><i>A possible standard system for implementing AI models into Blender and other 3D model software. Just a thought.</i></li>
 </ul>
