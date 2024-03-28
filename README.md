@@ -84,9 +84,11 @@
 
 <p align="center">
   <a href="http://www.linkedin.com/in/martijn-weber/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinusweber?langs_count=10&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinusweber?&langs_count=10&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
+
+<!--  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
   <a href="http://www.linkedin.com/in/martijn-weber/">
