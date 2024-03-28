@@ -70,7 +70,7 @@
 </p>
 
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-
+<p>Corperate Commits are not count</p>
 <br/>
 <p align="left">
   <a href="https:/www.linkedin.com/in/martijn-weber/">
