@@ -60,7 +60,7 @@
 </div>
 </p>
 
-<p align="center">Contact me:</p>
+<h3 align="center">Contact me:</h3>
 <p>
 <div align="center">
 	<a href="www.linkedin.com/in/martijn-weber/" rel="nofollow">
