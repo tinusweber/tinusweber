@@ -10,7 +10,7 @@
 
 <p>
 <div align="center">
-  	<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=Laravel&logoColor=ffdd54">
+  	<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=ffdd54">
 	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=ffdd54">
   	<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   	<img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
